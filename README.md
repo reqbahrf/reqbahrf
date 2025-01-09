@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on solo project **[FMS_Laravel](https://github.com/reqbahrf/FMS_Laravel)** - A Laravel project.
 - 🌱 I’m currently learning **React.js** to enhance my front-end skills.
-- 👨‍💻 All of my projects are available at [**My Portfolio**](https://reqbahrf.github.io/my_portfolio/).
+- 👨‍💻 All of my projects are available at [**My Portfolio**](https://my-portfolio-react-app-pied.vercel.app/#Home).
 - 📫 How to reach me: Feel free to drop an email at **reqbahrf@gmail.com**.
 
 ---
