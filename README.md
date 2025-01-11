@@ -2,7 +2,7 @@
 <p align="center">
   <em>A passionate full-stack developer from the Philippines</em>
   <br>
-  <a href="https://reqbahrf.github.io/my_portfolio/">View My Portfolio</a>
+  <a href="https://my-portfolio-react-app-pied.vercel.app/#Home">View My Portfolio</a>
 </p>
 
 ---
