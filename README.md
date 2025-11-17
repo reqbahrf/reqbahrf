@@ -2,14 +2,14 @@
 <p align="center">
   <em>A passionate full-stack developer from the Philippines</em>
   <br>
-  <a href="https://my-portfolio-react-app-pied.vercel.app/#Home">View My Portfolio</a>
+  <a href="https://reanz-arthur-monera.vercel.app//#Home">View My Portfolio</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [**My Portfolio**](https://my-portfolio-react-app-pied.vercel.app/#Home).
+- 👨‍💻 All of my projects are available at [**My Portfolio**](https://reanz-arthur-monera.vercel.app/#Home).
 - 📫 How to reach me: Feel free to drop an email at **reqbahrf@gmail.com**.
 
 ---
